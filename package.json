@@ -1,0 +1,25 @@
+{
+  "name": "wabigas",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangguanzzz/wabigas.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "chris wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangguanzzz/wabigas/issues"
+  },
+  "homepage": "https://github.com/wangguanzzz/wabigas#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
